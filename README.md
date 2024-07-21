@@ -1,4 +1,4 @@
-# Daily Reading
+# Daily Reading (Archived)
 
 每天一篇英文技术文章。希望通过这个阅读计划可以提升大家与英文阅读能力与技术视野。
 
